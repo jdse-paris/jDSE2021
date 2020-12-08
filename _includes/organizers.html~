@@ -1,0 +1,158 @@
+﻿ <!-- Organizers Section -->
+
+<section class="success_dark" id="pc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Steering Committee</h2>
+                </div>
+                <p>The role of the steering committee is helping in making the conference durable by its involvement in the choice of the scientific content of the conference, the proposal and the designation of the futur organizers and the location of the conference. It will also be involved in the constitution of the scientific program of the conference by participating in the selection of invited speakers and in scientific committee.</p>
+                <hr>
+            </div>
+            <p>
+            <div class="row">
+               <p> Florence d'Alché-Buc <br> <small>Télécom ParisTech, UPsay</small></p>
+               <p> Sylvain Arlot <br> <small>Université Paris-Sud, UPsay</small></p>
+               <p> Albert Bifet <br> <small>Télécom ParisTech, UPsay</small></p>
+	       <p> Sarah Cohen-Boulakia <br> <small>Université Paris-Sud, UPsay</small></p>
+	       <p> Flora Jay <br> <small>CNRS, UPsay</small></p>
+            </div>
+        </div>
+    </section>
+
+    <section class="success_dark" id="organizers">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Organizers</h2>
+                </div>
+                <p>The organization comittee manages the logistic and communication aspects of the conference.</p>
+                <hr>
+            </div>
+            <div class="row">
+	      <p>Gianluca Quercini
+                <br>
+                <small>Chair, Centrale Supélec, UPsay</small></p>
+              <p>Sylvain Le Corff
+                <br>
+                <small> Co chair, Télécom SudParis, UPsay</small></p>
+              <p>Isabelle Huteau
+                  <br>
+                  <small>Conference Communication Leader, Digicosme</small></p>
+            </div>
+	    <!--
+	    <div class="row">
+            <h4>Junior Organizing Committee</h4>
+	      <p> Molood Arman, Ph.D. student <br> <small>CentraleSupélec, UPsay</small></p>
+	      <p> Eloïse Berthier, Ph.D. student <br> <small>Université Paris-Saclay</small></p>
+	      <p> Max Cohen, M2 student <br> <small>Telecom SudParis</small></p>
+	      <p> Redouane Bouhamoum, Ph.D. student <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+	      <p> Hafsa El Hafyani, Ph.D. student <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+		<p> Anderson Carlos Ferreira da Silva, Research engineer <br> <small>LRI, UPsay</small></p>
+	      <p> Pierre-Louis Guhur, M2 student <br> <small>École normale supérieure Paris-Saclay, UPsay</small></p>
+	      <p> Minh Huong Le Nguyen, M2 student <br> <small>Télécom ParisTech, UPsay</small> </p>
+	      <p> Armita Khajeh Nassiri, M2 student <br> <small>LRI, UPsay</small></p>
+	      <p> Souheir Mehanna, Ph.D. student<br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>     
+	      <p> Yassine Ouali, Ph.D. student <br> <small>CentraleSupélec, UPsay</small></p>
+	      <p> Marie Perrot-Dockes, Ph.D. student <br> <small>AgroParisTech, UPsay</small></p>
+              <p> Mathilde Veron, Research engineer<br> <small>LIMSI, UPsay</small></p>
+	      <p> Adnan Zeddoun, Engineering student <br> <small>CentraleSupélec, UPsay</small></p>
+	       <p> Jingwei Zuo, Ph.D. student <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+		
+            </div> -->
+        </div>
+    </section>
+
+    <!--
+    <section class="success_dark" id="pc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Senior Scientific Committee</h2>
+                </div>
+                <p>The senior scientific committee is composed of senior researchers and 
+		assistant professors at Université Paris-Saclay. 
+		Members of the scientific committee review submitted papers and 
+		decide the criteria to assign the prize for the best paper and poster.</p>
+                <hr>
+            </div>
+            <p>
+            <div class="row">
+               <p> Florence d'Alché-Buc <br> <small>Télécom ParisTech, UPsay</small></p>
+	       <p> Albert Bifet <br> <small>Télécom ParisTech, UPsay</small></p>
+	       <p> Anna Bonnet <br> <small>Université Pierre et Marie Curie</small></p>
+	       <p> Sarah Cohen Boulakia <br> <small>Université Paris-Sud, UPsay</small></p>
+	       <p> Olivier Fercoq <br> <small>Télécom ParisTech, UPsay</small></p>
+	       <p> Pierre Gloaguen <br> <small>AgroParisTech, UPsay</small></p>
+	       <p> Alexandre Gramfort <br> <small> Inria Saclay, UPSay </small></p>
+	       <p> Céline Hudelot <br> <small>CentraleSupélec, UPsay</small></p>
+	       <p> Flora Jay <br> <small> CNRS, UPSay </small></p>
+	       <p> Sylvain Le Corff <br> <small>SAMOVAR, Télécom SudParis</small></p>
+               <p> Camille Coron <br> <small>Université Paris-Sud, UPsay</small></p>
+               <p> Matthieu Lerasle <br> <small>Université Paris-Sud, UPsay</small></p>
+               <p> Anne-Laure Ligozat <br> <small> ENSIIE </small></p>
+	       <p> Cristina Manfredotti <br> <small> AgroParisTech, UPSay </small></p>
+	       <p> Adelaïde Olivier <br> <small>Université Paris-Sud, UPsay</small></p>
+	       <p> Gianluca Quercini <br> <small> CentraleSupélec, UPSay </small></p>
+	       <p> Fatiha Saïs <br> <small>Université Paris-Sud, UPsay</small></p>
+	       <p> Karine Zeitouni <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+            </div>
+        </div>
+    </section> -->
+
+    
+    <!--
+    <section class="success_dark" id="pc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Junior Scientific Committee</h2>
+                </div>
+                <p>The junior scientific committee is composed of 2nd-3rd year Ph.D. students and postdoctoral researchers 
+		and assists the senior scientific committee in the task of reviewing submitted papers.</p>
+                <hr>
+            </div>
+            <div class="row">
+	    <p>	Marie Al-Ghossein, Postdoctoral researcher <br> <small> Télécom ParisTech, UPsay </small></p>
+            <p> Redouane Bouhamoum, Ph.D. student <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+            <p> Victor Bouvier, Ph.D. student <br> <small>CentraleSupélec, UPsay</small></p>
+            <p> Benoît Choffin, Ph.D. student <br> <small>CentraleSupélec, UPsay</small></p>
+            <p> Hafsa El Hafyani, Ph.D. student <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+	    <p> Julien Hay, Ph.D. student <br> <small>CentraleSupélec, UPsay</small></p>
+	    <p> Luc Lehericy, Ph.D. student <br> <small>Université Paris-Sud, UPsay</small></p>
+            <p> Souheir Mehanna, Ph.D. student<br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p> 
+	    <p> Heitor Murilo Gomes, Postdoctoral researcher <br> <small>Télécom ParisTech, UPsay</small></p>	    
+            <p> Thomas Moreau, Postdoctoral researcher <br> <small>Inria Saclay, UPsay</small></p>
+            <p> Ana Luísa Pinho, Postdoctoral researcher <br> <small>Inria Saclay, UPsay</small></p>
+	    <p> Augustin Touron, Ph.D. student <br> <small>Université Paris-Sud, UPsay</small></p>
+	    <p> Mathilde Veron, Research engineer <br> <small>LIMSI, UPsay</small></p>    
+	    <p> Jingwei Zuo, Ph.D. student <br> <small>Université de Versailles-Saint-Quentin-en-Yvelines, UPsay</small></p>
+	    </div>
+	 
+
+<div class="row">
+
+</p><p>Berna Bakir Batu (Inria, LRI) 
+</p><p>Takiy Berrandou (Inserm/UPS/UVSQ, CESP)
+</p><p>Jieying Chen (Université Paris-Sud, LRI)
+</p><p>Antonin Della Noce (CentraleSupelec, MICS)
+</p><p>Tom Dupre La Tour (Télécom ParisTech, LTCI)
+</p><p>François Gonard  (Inria, LRI  &  IRT SystemX)
+</p><p>Alexandros Kontarinis (U Cergy Pontoise, ETIS & U Versailles Saint Quentin, DAVID)
+</p><p>Anna Korba (Télécom ParisTech, LTCI)
+</p><p>Mathurin Massias (Télécom ParisTech, LTCI)
+</p><p>Eugene Ndiaye (Télécom ParisTech, LTCI)
+</p><p>Joe Raad (MIA-Paris, AgroParisTech/INRA, MIA-PAris)
+</p><p>Thomas Rebele (Télécom ParisTech, LTCI)
+</p><p>Hoang Van Ha (Université Paris-Sud, LMO)
+-->
+
+<!--e
+</p><p> Blaise Hanczar (Université d’Evry)
+</p><p> Yohan Petetin (Télécom SudParis)
+</p><p> Pierre Senellart (Télécom ParisTech)
+</p>
+
+            </div>
+        </div>
+   </section> -->

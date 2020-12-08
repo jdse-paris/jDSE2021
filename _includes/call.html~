@@ -1,0 +1,65 @@
+﻿ <!-- Call Section -->
+    <section class="success" id="call">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Call for submissions</h2>
+                    <hr>
+                </div>
+            </div>
+            <div class="row">
+		    
+<p>We invite <b>Master M2</b> and <b>Ph.D. students</b> from the <b>Université Paris-Saclay</b> and <b>Institut Polytechnique de Paris</b> 
+to submit an <b>extended abstract</b> of <b>up to 3 pages</b> describing new or preliminary results of their scientific work. The 6 selected authors will be given the chance to present their papers in a 20-minutes talk.
+
+<p>Master students are especially encouraged to submit posters even if they do not have substantial results 
+at the time of submission.</p>
+
+<p>Submissions must be in <b>PDF</b> 
+and must adopt the style of the Springer Publications format for Lecture Notes in Computer Science (LNCS):
+</p>
+<p>
+<ul style="font-size:20px;">
+<li> A sample submission 
+can be found <b><u><a href="assets/JDSEtemplate.pdf", target="_blank" style="color: #FFF">here</a></u></b>. 
+Your paper must be in <b>English</b>, have <b>between 1 and 3 pages</b>,  
+contain <b>no more than one figure or table</b>, 
+and <b>include the following paragraphs</b>: abstract, keywords, motivation, references (<b>up to 10</b>).
+<li> You can use either 
+<b><u><a href="assets/JDSE_abstract_template.zip", style="color: #FFF">this latex template</a></u></b> 
+or <b><u><a href="ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip", style="color: #FFF">this Word template</a></u></b>, at your choice.
+</ul>
+</p>
+
+<h3>Submission</h3>
+<p>
+All papers must be submitted by mail to <u><a href="matthieu.labeau@telecom-paris.fr" target="_top" style="color: #FFF">Matthieu Labeau </a></u> and <u><a href="mailto:yohan.petetin@telecom-sudparis.eu" target="_top" style="color: #FFF">Yohan Petetin </a></u>.
+</p>
+	      
+<h3> List of topics</h3>
+                  
+ <p>Topics of interest include, but are not limited to:
+
+                  <ul style="font-size:20px;">
+                    <li>Data mining</li>
+                    <li>Databases</li>
+                    <li>Big Data analytics</li>
+                    <li>Machine learning</li>
+                    <li>Statistics</li>
+                    <li>Semantic web</li>
+                    <li>Scientific workflows</li>
+                    <li>Distributed data and computing</li>
+                    <li>Applications of data science (biomedical and biological data, physics, chemistry, smart cities, image, documents, audio, video, on-line advertisement, ...)</li></big></big>
+                  </ul></p>
+
+<!--                  <p> The deadline for submissions for oral and poster presentations was extended <b> see DATES</b> for details.</p> -->
+
+
+                  <p>The extended abstracts will be reviewed by the scientific program committee, including one junior PC member (PhD student or postdoc in data science). 
+	          All the presentations must be in English. 
+	       Electronic versions of the extended abstracts will be accessible on the conference web site. 
+               The book of abstracts will not be published and the extended abstracts will not constitute a formal publication.</p>
+                  <p><b><u>Note:</u></b> Only Master M2 and Ph.D. students from Université Paris-Saclay and Institut Polytechnique de Paris are invited to contribute.</p>
+            </div>
+        </div>
+    </section>

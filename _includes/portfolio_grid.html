@@ -1,0 +1,38 @@
+
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio" class="success_dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Speakers</h2> 
+                    <hr>
+                </div>
+            </div>
+
+            <div class="col-lg-12 text-center">
+	      {% for post in site.posts %}
+              <a href="{{ post.description }}" class="portfolio-link" data-toggle="modal" id="{{ post.name-id }}">
+		
+                          <img src="img/portfolio/{{ post.img }}" class="img-responsive" style='border-radius: 50%; display: inline !important;' alt={{post.alt}} width=18%>
+                          <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive" style='border-radius: 50%; display: inline !important;' alt="">-->
+                          <div class="caption">
+                              <div class="caption-content">
+                                  <i class="fa fa-search-plus fa-2x"></i>
+                              </div>
+                          </div>
+                      </a>
+                  <!-- </div> -->
+
+              <p> <b> {{post.name}} </b> 
+	      <br> {{post.affiliation}}, {{post.affiliation2}}</p>
+	      <br> <p> <b> {{post.title}} </b> </p>
+	      <br> 
+              <p> <u>Abstract:</u> {{post.abstract}}</p>  
+	      <br> 
+              <p> <u>Bio:</u> {{post.bio}} </p>
+              <br>
+              <br>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
