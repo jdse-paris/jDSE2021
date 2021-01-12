@@ -11,6 +11,7 @@
 
             <div class="col-lg-12 text-center">
 	      {% for post in site.posts %}
+	      {% if post.img %}
               <a href="{{ post.description }}" class="portfolio-link" data-toggle="modal" id="{{ post.name-id }}">
 		
                           <img src="img/portfolio/{{ post.img }}" class="img-responsive" style='border-radius: 50%; display: inline !important;' alt={{post.alt}} width=18%>
@@ -22,14 +23,16 @@
                           </div>
                       </a>
                   <!-- </div> -->
+              
 
+	      {% endif %}	  
               <p> <b> {{post.name}} </b> 
 	      <br> {{post.affiliation}}, {{post.affiliation2}}</p>
 	      <br> <p> <b> {{post.title}} </b> </p>
 	      <br> 
               <p> <u>Abstract:</u> {{post.abstract}}</p>  
 	      <br> 
-              <p> <u>Bio:</u> {{post.bio}} </p>
+              {% if post.bio %}<p> <u>Bio:</u> {{post.bio}} </p>{% endif %}
               <br>
               <br>
                 {% endfor %}

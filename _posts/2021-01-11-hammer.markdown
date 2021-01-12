@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 2
+date: 2021-01-11
+img: hammer_profile.jpeg
+alt: Barbara Hammer
+name: Barbara Hammer
+name-id: hammer
+affiliation: Professor for Machine Learning at the CITEC Cluster at Bielefeld University
+affiliation2: Germany
+title: Learning with reject option, drift, and interpretability
+abstract: <p>Neural networks have revolutionised domains such as computer vision or language processing, and learning technology is included in everyday’s consumer products. Yet, practical problems often render learning surprisingly difficult, in particular if some of the typical prerequisites of machine learning are violated. As an example, only few data might be available in the context of tasks such as model personalization. Learning might take place in non-stationary environments such that models face the stability-plasticity dilemma. In such cases, applicants might be tempted to use models for settings they are not intended for. Within the talk, I will address two challenges, which occur in such settings - How to learn reliably given few examples only ? How to learn incrementally in non-stationary environments where drift might occur ?  More particular, I will address distance-based and prototype-based models for learning from few data and learning with drift, and I will argue for a vital property of such models, namely components of their inherent interpretability. Exemplary applications will come from the domain of driver assistance and biomechanics. </p>
+bio: <p>Barbara Hammer is a full Professor for Machine Learning at the CITEC Cluster at Bielefeld University, Germany. She received her Ph.D. in Computer Science in 1999 and her venia legendi (permission to teach) in 2003, both from the University of Osnabrueck, Germany, where she was head of an independent research group on the topic 'Learning with Neural Methods on Structured Data'. In 2004, she accepted an offer for a professorship at Clausthal University of Technology, Germany, before moving to Bielefeld in 2010. Barbara's research interests cover theory and algorithms in  machine learning and neural networks and their application for technical systems and the life sciences, including explainability, learning with drift, nonlinear dimensionality reduction, recursive models, and learning with non-standard data. Barbara has been chairing the IEEE CIS Technical Committee on Data Mining and Big Data Analytics, the IEEE CIS Technical Committee on Neural Networks, and the IEEE CIS Distinguished Lecturer Committee. She has been elected as member of the IEEE CIS Administrative Committee and the INNS Board. She is an associate editor of the IEEE Computational Intelligence Magazine, the IEEE TNNLS, and IEEE TPAMI. Currently, large parties of her work focusses on explainable machine learning for spatial-temporal data in her role as a PI of the ERC Synergy Grant Water-Futures.</p>
+project-date:
+client:
+category:
+description: https://www.techfak.uni-bielefeld.de/~bhammer/
+---
+

@@ -1,0 +1,17 @@
+---
+layout: default
+modal-id: 2
+date: 2021-01-12
+alt: Arnaud Doucet
+name: Arnaud Doucet
+name-id: doucet
+affiliation: Professor of Statistics, University of Oxford 
+affiliation2: United Kingdom & Research Scientist, DeepMind
+title: Auto-Encoding Differentiable Particle Filtering
+abstract: <p>Particle Filters are a powerful and popular class of methods used to perform state and parameter inference in non-linear non-Gaussian state-space models. Combined to variational inference ideas, these techniques provide state-of-the-art variational auto-encoders for time series. However, the resampling steps used by particle filters yield a non-differentiable estimate of the likelihood function and high variance gradient estimates of the Evidence Lower Bound. By leveraging Optimal Transport ideas, we introduce the first principled class of differentiable particle filters, providing a differentiable likelihood function estimate which can be used for end-to-end parameter learning. We establish a few convergence results and  demonstrate the performance of differentiable particle filters on various applications. Joint work with Adrien Corenflos (Aalto University), James Thornton (Oxford University) & George Deligiannidis (Oxford University).</p>
+project-date:
+client:
+category:
+description: http://www.stats.ox.ac.uk/~doucet/
+---
+

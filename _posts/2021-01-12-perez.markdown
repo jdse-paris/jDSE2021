@@ -1,0 +1,19 @@
+---
+layout: default
+modal-id: 2
+date: 2021-01-12
+img: perez_profile.jpg
+alt: Patrick Perez
+name: Patrick Perez
+name-id: perez
+affiliation: Scientific Director of valeo.ai
+affiliation2: Paris, France
+title: Challenges of machine learning for autonomous driving
+abstract: <p>Assisted and autonomous vehicles are safety-critical systems that  have to cope in real-time with complex, hard-to-predict, dynamic environments. Training (and testing) the underlying models require massive amounts of fully-annotated driving data, which is not sustainable. Focusing on perception, several projects at valeo.ai toward training better models with less supervision will be presented.</p>
+bio: <p>Patrick Perez is Scientific Director of valeo.ai, an AI research lab focused on Valeo automotive applications, self-driving cars in particular. Before joining Valeo, Patrick Pérez has been a researcher at Technicolor (2009-2018), Inria (1993-2000, 2004-2009) and Microsoft Research Cambridge (2000-2004). His research interests include multimodal scene understanding and computational imaging.</p>
+project-date:
+client:
+category:
+description: https://ptrckprz.github.io/
+---
+
