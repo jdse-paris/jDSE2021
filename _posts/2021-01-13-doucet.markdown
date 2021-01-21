@@ -4,11 +4,13 @@ modal-id: 2
 date: 2021-01-12
 alt: Arnaud Doucet
 name: Arnaud Doucet
+img: doucet_profile.jpeg
 name-id: doucet
 affiliation: Professor of Statistics, University of Oxford 
 affiliation2: United Kingdom & Research Scientist, DeepMind
 title: Auto-Encoding Differentiable Particle Filtering
 abstract: <p>Particle Filters are a powerful and popular class of methods used to perform state and parameter inference in non-linear non-Gaussian state-space models. Combined to variational inference ideas, these techniques provide state-of-the-art variational auto-encoders for time series. However, the resampling steps used by particle filters yield a non-differentiable estimate of the likelihood function and high variance gradient estimates of the Evidence Lower Bound. By leveraging Optimal Transport ideas, we introduce the first principled class of differentiable particle filters, providing a differentiable likelihood function estimate which can be used for end-to-end parameter learning. We establish a few convergence results and  demonstrate the performance of differentiable particle filters on various applications. Joint work with Adrien Corenflos (Aalto University), James Thornton (Oxford University) & George Deligiannidis (Oxford University).</p>
+bio: <p> Arnaud Doucet obtained his PhD from the University of Paris XI (Orsay) in 1997. He previously held academic positions at Cambridge University, Melbourne University, The Institute of Statistical Mathematics in Tokyo and the University of British Columbia where he was a Canada Research Chair in Stochastic Computation. Professor Arnaud Doucet’s research concerns numerical methods for the analysis of complex data sets. In particular, he has contributed to the development and study of sequential Monte Carlo and Markov chain Monte Carlo methods.</p>
 project-date:
 client:
 category:
